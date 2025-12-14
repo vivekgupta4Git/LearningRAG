@@ -1,0 +1,15 @@
+SKILLS
+- Android SDK
+- Restful APIs Integration
+- Firebase
+- Android Jetpack Libraries
+- Reactive Programming
+- Dependency Injection
+- Material Design
+- Design Patterns
+- CI/CD
+- LANGUAGES
+- Java
+- Kotlin
+- JavaScript
+- Python
